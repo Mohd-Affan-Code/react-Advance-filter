@@ -1,0 +1,19 @@
+.navbar-section {
+  max-width: 800px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.navbar-section input {
+  border: none;
+  padding: 6px;
+  background-color: rgb(241, 241, 241);
+  font-size: 14px;
+}
+
+.right-navbar a {
+  cursor: pointer;
+  padding-left: 20px;
+}

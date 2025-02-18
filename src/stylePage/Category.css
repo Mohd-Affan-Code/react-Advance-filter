@@ -1,0 +1,11 @@
+.categroy {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.category-operation {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}

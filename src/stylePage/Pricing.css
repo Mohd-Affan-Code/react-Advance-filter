@@ -1,0 +1,11 @@
+.pricing {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pricing-operation {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
