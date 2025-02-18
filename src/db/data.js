@@ -97,7 +97,7 @@ export const data = [
     reviews: 500,
     price: 45,
     company: "Sparx",
-    category: "Sports",
+    category: "Casual",
   },
   {
     id: 11,
