@@ -6,3 +6,12 @@
   display: flex;
   gap: 12px;
 }
+
+@media screen and (max-width: 600px) {
+  .recammended-flex {
+    margin-left: 10rem;
+  }
+  .recammended-button button {
+    font-size: 14px;
+  }
+}

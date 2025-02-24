@@ -12,14 +12,6 @@ const Navbar = ({ handleSearch }) => {
         name="search"
         placeholder="Enter your search shoes"
       />
-      <div className="right-navbar">
-        <a>
-          <FaCartShopping style={{ fontSize: "20px" }} />
-        </a>
-        <a>
-          <FaUser style={{ fontSize: "20px" }} />
-        </a>
-      </div>
     </div>
   );
 };

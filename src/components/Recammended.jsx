@@ -7,7 +7,7 @@ const Recammended = ({ handleBrandFilter }) => {
       <h2>Recommended</h2>
       <div className="recammended-button">
         <button onClick={() => handleBrandFilter("")}>All Product</button>
-        <button onClick={() => handleBrandFilter("Niike")}>Nike</button>
+        <button onClick={() => handleBrandFilter("Nike")}>Nike</button>
         <button onClick={() => handleBrandFilter("Adidas")}>Adidas</button>
         <button onClick={() => handleBrandFilter("Puma")}>Puma</button>
         <button onClick={() => handleBrandFilter("Sparx")}>Sparx</button>
